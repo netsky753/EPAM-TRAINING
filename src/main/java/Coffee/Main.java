@@ -8,7 +8,7 @@ public class Main {
 		Coffee Nescafe = new Coffee();
 		Metods metod = new Metods();
 		Nescafe.output();
-		metod.app_menu(Nescafe);
+		metod.Coffee_choose(Nescafe);
 		Nescafe.output();
 	}
 
